@@ -9,4 +9,5 @@ Bu repo [Kodluyoruz](kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk 
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açtım.<br/>
 ## Contributing
-
+** Herhangi bir pull requestte bulunmadım. ** <br/>
+*** En son olarak eğitmenimiz Hakan Yalçınkaya'nın GitHub hesabına gidip "kodluyoruz-frontend-101-egitimi" adlı reposunu buldum. Bu repoyu forklayarak kendi GitHub hesabıma aldım ve daha sonrasında bilgisayarıma clonelayıp kaynak dosyaları inceledim. ***
