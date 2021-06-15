@@ -1,11 +1,12 @@
 # Kodluyoruz Ilk Repo
 
-Kodluyoruz Eğitimi Kapsamında Açtığım İlk Repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor. <br/>
+![Örnek Markdown İçeriği](C:\Users\Hp\Documents\Sites)
 
 ## Installation <br/>
-Öncelikle projeyi cloneladım. (Buraya sizin repomdan aldığım link geldi) <br/>
-[Repo Adresim] ()
+Öncelikle projeyi cloneladım. <br/>
+[Repo Adresim](https://github.com/meryemaltn/kodluyoruzilkrepo.git)<br/> 
+## Usage
+Projeyi cloneladıktan sonra Visual Studio Code programında açtım.<br/>
+## Contributing
 
-**Git Dersi Ödevi için bir adet görsel içeren Markdown dosyası ve index.html adında iki dosyadan oluşan bir Repo Açmak. Aşağıdaki görsel gibi görünecek.** <br/> 
-
-## Markdown Düzenleme
